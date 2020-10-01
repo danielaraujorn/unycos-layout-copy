@@ -1,6 +1,4 @@
-# MContigo Group - Technical Challenge
-
-Technical challenge for Front-End Person (HTML / CSS / JS) opportunity in the MContigo Group.
+# Copy of Unycos website design
 
 ## Testing
 
